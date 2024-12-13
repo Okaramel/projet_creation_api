@@ -1,1 +1,10 @@
-Projet d'école où nous découvrons comment créer des API.
+## Projet de création d'API
+
+
+## Description
+Projet découverte à la création d'API et à son utilisation.
+
+## Outils utilisés
+- HTML
+- CSS
+- JS
